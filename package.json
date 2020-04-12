@@ -1,0 +1,26 @@
+{
+  "name": "Dadbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "discord.js-commando": "^0.10.0",
+    "express": "^4.16.4",
+    "fs": "^0.0.2",
+    "random-puppy": "^1.1.0",
+    "superagent": "^5.1.0",
+    "sqlite": "^4.0.5",
+    "snekfetch": "^4.0.4",
+    "moment": "^2.24.0",
+    "request": "^2.88.2",
+    "klasa": "^0.4.0",
+    "quick.db": "^7.1.0"
+  }
+}
