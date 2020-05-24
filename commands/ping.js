@@ -12,7 +12,8 @@ module.exports.conf = {
 
 module.exports.help = {
   name: "ping",
-  category: "Miscelaneous",
+  category: "Miscelaneo",
   description: "It like... Pings. Then Pongs. And it's not Ping Pong.",
   usage:"ping"
+  
 };
